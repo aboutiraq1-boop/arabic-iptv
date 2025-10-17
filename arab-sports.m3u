@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="beIN Sports 1 HD" group-title="Sports",beIN Sports 1 HD
-http://51.81.208.159:8080/iptv/bein1.m3u8
+http://185.141.25.245:8080/live/Bein1/index.m3u8
 
 #EXTINF:-1 tvg-name="beIN Sports 2 HD" group-title="Sports",beIN Sports 2 HD
-http://51.81.208.159:8080/iptv/bein2.m3u8
+http://185.141.25.245:8080/live/Bein2/index.m3u8
 
 #EXTINF:-1 tvg-name="SSC Sports 1 HD" group-title="Sports",SSC Sports 1 HD
-http://51.81.208.159:8080/iptv/ssc1.m3u8
+http://185.141.25.245:8080/live/SSC1/index.m3u8
 
 #EXTINF:-1 tvg-name="AD Sports 1 HD" group-title="Sports",AD Sports 1 HD
-http://51.81.208.159:8080/iptv/ad1.m3u8
+http://185.141.25.245:8080/live/AD1/index.m3u8
 
 #EXTINF:-1 tvg-name="KSA Sports 1 HD" group-title="Sports",KSA Sports 1 HD
-http://51.81.208.159:8080/iptv/ksa1.m3u8
+http://185.141.25.245:8080/live/KSA1/index.m3u8
 
 #EXTINF:-1 tvg-name="OSN Movies HD" group-title="Movies",OSN Movies HD
-http://51.81.208.159:8080/iptv/osnmovies.m3u8
+http://185.141.25.245:8080/live/OSNMovies/index.m3u8
 
 #EXTINF:-1 tvg-name="Shahid VIP HD" group-title="Series",Shahid VIP HD
-http://51.81.208.159:8080/iptv/shahidvip.m3u8
+http://185.141.25.245:8080/live/ShahidVIP/index.m3u8
